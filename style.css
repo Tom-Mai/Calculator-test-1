@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    height: 100vh;
+}
+
+.calcc{
+    height:fit-content;
+   
+}
+
+.btn{
+    height: 4rem;
+    width:  4rem;
+}
